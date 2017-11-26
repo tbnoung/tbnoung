@@ -1,0 +1,8 @@
+{
+  "name": "tbnoung",
+  "app_id": "2264b7d6",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
